@@ -15,9 +15,9 @@ I strongly believe in using data-driven insights to **make finance smarter, risk
 ---
 
 ## 🎓 Education
-- **Post Graduate Diploma in Applied Statistics (PGDAST)** – [IGNOU]
-- Specialization in Industrial Statistics
-
+- **Post Graduate Diploma in Applied Statistics (PGDAST)** with **Specialization in Industrial Statistics**
+ – [IGNOU]
+  
 - **Bachelor of Commerce (Honours)** - Delhi University
 
 ---
@@ -25,10 +25,9 @@ I strongly believe in using data-driven insights to **make finance smarter, risk
 ## 📜 Certifications
 - **FRM (Financial Risk Manager) – Level 1 Cleared | Level 2 Candidate**
     
-- **Other certifications**
-- **Simplilearn** : Machine Learning using Python, Introduction to Artificial Intelligence
-
-- **Udemy** : Credit Risk Modeling in Python, IFRS9 Expected Credit Loss Model Development and Validation, Certified Risk Management FMEA ISO 31000 Expert (Accredited), Decision Modeling and Risk Analysis with Excel, Enterprise Risk Management (Accredited),  The Complete Financial Analyst Training and Investing Course, Beginner to Pro in Excel : Financial Modeling and Valuation
+- **Other certifications:**
+ **Simplilearn** : Machine Learning using Python, Introduction to Artificial Intelligence
+  **Udemy** : Credit Risk Modeling in Python, IFRS9 Expected Credit Loss Model Development and Validation, Certified Risk Management FMEA ISO 31000 Expert (Accredited), Decision Modeling and Risk Analysis with Excel, Enterprise Risk Management (Accredited),  The Complete Financial Analyst Training and Investing Course, Beginner to Pro in Excel : Financial Modeling and Valuation
 
  
 ---
