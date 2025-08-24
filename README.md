@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 ![Banner](https://img.shields.io/badge/Risk%20%26%20Analytics-Data%20Driven%20Finance-blueviolet?style=for-the-badge&logo=python&logoColor=white)
 
-# Hi there, I’m **Kashish Goel** 👋  
+# Hi there, I’m **Kashish!** 👋  
 *Aspiring Risk & Analytics Professional | Finance Enthusiast | Data-Driven Thinker*
 
 ---
