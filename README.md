@@ -81,9 +81,3 @@ I’m always open to collaboration, discussions, and opportunities in **risk man
 - 💼 [LinkedIn](https://www.linkedin.com/in/kashissh-goel/)  
 - 📂 [GitHub](https://github.com/Kashissh-10)  
 - ✉️ [kashissh2190@gmail.com]  
-
----
-
-**Thank you for stopping by.**  
-Stay curious. Stay grounded. Stay analytical.  
-— Kashish Goel
